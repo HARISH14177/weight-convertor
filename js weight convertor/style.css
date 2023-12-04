@@ -1,0 +1,24 @@
+body{
+    margin-top:70px;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color:#fff;
+}
+.card-block h4{
+    color: rgb(0, 0, 0);
+    padding: 15px;
+}
+.card-block{
+    background-color: #8bbe7b;
+}
+.container{
+    margin-top: 155px;
+}
+.display{
+    color: black;
+    font-family: system-ui;
+}
+#gramsOutput,#kgOutput,#ozOutput{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    margin-left: 25px;
+}
